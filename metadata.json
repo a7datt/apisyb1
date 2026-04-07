@@ -1,0 +1,5 @@
+{
+  "name": "SybAPI Payment Gateway",
+  "description": "A payment gateway for Sham Cash, allowing developers to integrate payments via a simple API.",
+  "requestFramePermissions": []
+}
